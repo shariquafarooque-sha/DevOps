@@ -1,0 +1,40 @@
+https://eu-north-1.console.aws.amazon.com/console/home?region=eu-north-1
+
+MFA device name - Sha@123
+
+https://439563880931.signin.aws.amazon.com/console
+
+
+
+url: https://www.udemy.com/home/my-courses/learning/?p=4
+ username:ntajudeen@transperfect.com password: Hola@09081996!
+udemy 
+
+
+userdata bootstraping command just to copy and paste
+
+#!/bin/bash
+yum update -y
+yum install -y httpd
+systemctl start httpd
+systemctl enable httpd
+
+echo "Welcome to userdata bootstrapping webserver by sharu $(hostname -f)" > /var/www/html/index.html
+
+
+this instance to access linex from window
+65.0.110.147
+
+
+65.1.130.125 pem to ppk file ip address
+
+
+qLc778KUePoy&qxUgfJtHFq0BFV@zd!g
+windows instance password
+
+
+powershell linux command
+ssh -i "PEM.pem" ec2-user@13.201.98.120
+
+nslookup fs-0a1b2c3d4e5f67890.efs.eu-west-2.amazonaws.com
+fs-01761aeaf0127fbb4
